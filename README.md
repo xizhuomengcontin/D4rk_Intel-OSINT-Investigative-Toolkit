@@ -371,7 +371,7 @@ Access specialized search engines and archived content.
 | MISP | Malware information sharing platform | https://www.misp-project.org |
 | AlienVault OTX | Open threat intelligence exchange | https://otx.alienvault.com |
 | ThreatConnect | Threat intelligence aggregation | https://threatconnect.com |
-| Orca AI Incident Archive | Searchable database of real-world AI agent security events; open data at github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive | https://www.orcarouter.ai/incident-archive |
+| Orca AI Incident Archive | AI agent security events database | https://www.orcarouter.ai/incident-archive |
 
 ---
 
